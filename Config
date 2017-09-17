@@ -18,3 +18,4 @@ tmp
 pkg
 .iml
 Gemfile.lock
+.gitignore
